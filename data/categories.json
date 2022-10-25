@@ -11,7 +11,7 @@
       "name": "Most Popular Courses",
       "description": "You can get here most relevant and demandable courses.",
       "image": "https://ibb.co/0fFv7Qh",
-      "numberOfCourses": "10"
+      "numberOfCourses": "7"
     },
     {
       "id": "03",
@@ -39,7 +39,7 @@
       "name": "Skill Development",
       "description": "Here goes some extra-ordinary and unique courses that helps you to improve more.",
       "image": "https://ibb.co/M1RZ0Pc",
-      "numberOfCourses": "6"
+      "numberOfCourses": "3"
     },
     {
       "id": "07",
@@ -53,6 +53,6 @@
       "name": "Psychological Courses",
       "description": "Explore the science of psychology and maintain efficiently your Mental Health.",
       "image": "https://ibb.co/YN85ZXD",
-      "numberOfCourses": "5"
+      "numberOfCourses": "3"
     }
   ]

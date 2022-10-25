@@ -1,0 +1,53 @@
+[
+    {
+        "id": "01",
+        "title": "Email Writing",
+        "image": "",
+        "description": "",
+        "money": "$2",
+        "total-hour": "1 hr",
+        "total-view": "1864",
+        "total-video": "9",
+        "total-live-class": "2",
+        "rating": "4.5",
+        "badge": "excellent",
+        "update": "Updated Yesterday",
+        "teacher": "Trainer Qianfan",
+        "teacher-photo": "",
+        "teacher-profession": "Trainer"
+    },
+    {
+        "id": "02",
+        "title": "CV writing",
+        "image": "",
+        "description": "",
+        "money": "$1",
+        "total-hour": "50 min",
+        "total-view": "1465",
+        "total-video": "11",
+        "total-live-class": "2",
+        "rating": "4.7",
+        "badge": "excellent",
+        "update": "Updated 2 days ago",
+        "teacher": "Trainer Akira",
+        "teacher-photo": "",
+        "teacher-profession": "Trainer"
+    },
+    {
+        "id": "03",
+        "title": "Public Speaking",
+        "image": "",
+        "description": "",
+        "money": "$2",
+        "total-hour": "1 hr",
+        "total-view": "1500",
+        "total-video": "23",
+        "total-live-class": "7",
+        "rating": "4.5",
+        "badge": "excellent",
+        "update": "Updated today",
+        "teacher": "Teaccher Klaus",
+        "teacher-photo": "",
+        "teacher-profession": "Trainer"
+    }
+]
