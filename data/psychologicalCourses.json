@@ -2,8 +2,8 @@
     {
         "id": "01",
         "title": "Managing Anxiety",
-        "image": "",
-        "description": "",
+        "image": "https://ibb.co/z2HM8km",
+        "description": "This anxiety management training course will help to get a deep understanding of anxiety and depression. It not only talks about anxiety but also depression and CBT. The course teaches ways to identify anxiety and depression and also evidence-based strategies to deal with them.",
         "money": "$17",
         "total-hour": "159 hr",
         "total-view": "164",
@@ -13,14 +13,14 @@
         "badge": "excellent",
         "update": "Updated Yesterday",
         "teacher": "Trainer Qianfan",
-        "teacher-photo": "",
+        "teacher-photo": "https://ibb.co/16Gvy8J",
         "teacher-profession": "Psychologist"
     },
     {
         "id": "02",
         "title": "Stress Management",
-        "image": "",
-        "description": "",
+        "image": "https://ibb.co/d7N08X9",
+        "description": "It is Increased your individual productivity and responsibility.",
         "money": "$5",
         "total-hour": "13 hr",
         "total-view": "1455",
@@ -30,14 +30,14 @@
         "badge": "excellent",
         "update": "Updated 2 days ago",
         "teacher": "Trainer Akira",
-        "teacher-photo": "",
+        "teacher-photo": "https://ibb.co/grFtk5j",
         "teacher-profession": "PSychiatrist"
     },
     {
         "id": "03",
         "title": "Mental Health Awareness",
-        "image": "",
-        "description": "",
+        "image": "https://ibb.co/XD9yMxw",
+        "description": "Mental health training has the most significant impact on your employees when it focuses on growing awareness and building a positive culture of support, empathy, and treating others well. Within this environment, colleagues are empowered to build resilience and recognize when others need support.",
         "money": "$12",
         "total-hour": "110 hr",
         "total-view": "1500",
@@ -47,7 +47,7 @@
         "badge": "excellent",
         "update": "Updated today",
         "teacher": "Teaccher Klaus",
-        "teacher-photo": "",
+        "teacher-photo": "https://ibb.co/c1W02kd",
         "teacher-profession": "PSychiatrist"
     }
 ]

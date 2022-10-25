@@ -2,8 +2,8 @@
     {
         "id": "01",
         "title": "Chinese Language",
-        "image": "",
-        "description": "",
+        "image": "https://ibb.co/dt06KYc",
+        "description": "Chinese language skills open up just over 1.3 billion people across China! Learning Mandarin gives you access to communicate with many people and connect on a deeper level, not just in Asia but across the world! Studies suggest that learning Chinese uses more parts of the brain than are required for other languages.",
         "money": "$17",
         "total-hour": "1590 hr",
         "total-view": "1864",
@@ -14,14 +14,14 @@
         "badge": "excellent",
         "update": "Updated Yesterday",
         "teacher": "Trainer Qianfan",
-        "teacher-photo": "",
+        "teacher-photo": "https://ibb.co/c1W02kd",
         "teacher-profession": "Language specialist"
     },
     {
         "id": "02",
         "title": "Japanese Language",
-        "image": "",
-        "description": "",
+        "image": "https://ibb.co/WWvXKbz",
+        "description": "Learning Japanese will help you to appreciate your own culture as well as your own language because it improves your communication and cognitive skills.",
         "money": "$15",
         "total-hour": "1380 hr",
         "total-view": "1465",
@@ -32,14 +32,14 @@
         "badge": "excellent",
         "update": "Updated 2 days ago",
         "teacher": "Trainer Akira",
-        "teacher-photo": "",
+        "teacher-photo": "https://ibb.co/16Gvy8J",
         "teacher-profession": "Language trainer"
     },
     {
         "id": "03",
         "title": "German Language",
-        "image": "",
-        "description": "",
+        "image": "https://ibb.co/fx9LmGL",
+        "description": "Knowledge of German increases your job opportunities with German and foreign companies in your own country and abroad. Tourism and hospitality industry: Tourists from German-speaking countries travel wide and far, and are the world's biggest spenders when on holiday.",
         "money": "$20",
         "total-hour": "1120 hr",
         "total-view": "1500",
@@ -50,14 +50,14 @@
         "badge": "excellent",
         "update": "Updated today",
         "teacher": "Teaccher Klaus",
-        "teacher-photo": "",
+        "teacher-photo": "https://ibb.co/grFtk5j",
         "teacher-profession": "Language specialist"
     },
     {
         "id": "04",
         "title": "Russian Language",
-        "image": "",
-        "description": "",
+        "image": "https://ibb.co/nwNtyqx",
+        "description": "The most obvious reason to learn Russian is its massive popularity. It’s the eighth most widely spoken language in the world and the official language of Russia—the largest country, with a population of 146 million people.",
         "money": "$10",
         "total-hour": "800 hr",
         "total-view": "999",
@@ -68,14 +68,14 @@
         "badge": "good",
         "update": "Updated Yesterday",
         "teacher": "Teaccher Maksim",
-        "teacher-photo": "",
+        "teacher-photo": "https://ibb.co/c1W02kd",
         "teacher-profession": "Language instructor"
     },
     {
         "id": "05",
         "title": "Korean Language",
-        "image": "",
-        "description": "",
+        "image": "https://ibb.co/NxCbPhH",
+        "description": "Learning Korean helps you to connect with a broad and engaging community of people. Korean is often considered to have the most logical writing system in the world.",
         "money": "$10",
         "total-hour": "1300 hr",
         "total-view": "1159",
@@ -86,7 +86,7 @@
         "badge": "excellent",
         "update": "Updated today",
         "teacher": "Thomas Garaf",
-        "teacher-photo": "",
+        "teacher-photo": "https://ibb.co/16Gvy8J",
         "teacher-profession": "Language trainer"
     }
 ]
