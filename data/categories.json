@@ -1,0 +1,58 @@
+[
+    {
+      "id": "01",
+      "name": "Free Courses",
+      "description": "The Brainy Hub provides you some free courses as a new learner.",
+      "image": "https://ibb.co/mhGkC5Q",
+      "numberOfCourses": "4"
+    },
+    {
+      "id": "02",
+      "name": "Most Popular Courses",
+      "description": "You can get here most relevant and demandable courses.",
+      "image": "https://ibb.co/0fFv7Qh",
+      "numberOfCourses": "10"
+    },
+    {
+      "id": "03",
+      "name": "Language Courses",
+      "description": "Learn several languages with The Brainy Hub. (Chinese, Japanese, German, Russian and Korean Language)",
+      "image": "https://ibb.co/B33wH3p",
+      "numberOfCourses": "5"
+    },
+    {
+      "id": "04",
+      "name": "Programming Courses",
+      "description": "Learn different programming languages and be more proficient.",
+      "image": "https://ibb.co/DRTjSc3",
+      "numberOfCourses": "7"
+    },
+    {
+      "id": "05",
+      "name": "Digital Marketing",
+      "description": "Master the tools of business strategy to contribute meaningfully to your organization. Create value for customers, employees, and suppliers, and generate financial success.",
+      "image": "https://ibb.co/zNVRKpP",
+      "numberOfCourses": "5"
+    },
+    {
+      "id": "06",
+      "name": "Skill Development",
+      "description": "Here goes some extra-ordinary and unique courses that helps you to improve more.",
+      "image": "https://ibb.co/M1RZ0Pc",
+      "numberOfCourses": "6"
+    },
+    {
+      "id": "07",
+      "name": "IELTS Courses",
+      "description": "Improve your English learning strategy with us and get more score in IELTS.",
+      "image": "https://ibb.co/fphHnW5",
+      "numberOfCourses": "4"
+    },
+    {
+      "id": "08",
+      "name": "Psychological Courses",
+      "description": "Explore the science of psychology and maintain efficiently your Mental Health.",
+      "image": "https://ibb.co/YN85ZXD",
+      "numberOfCourses": "5"
+    }
+  ]
