@@ -2,7 +2,7 @@
     {
         "id": "01",
         "title": "Speaking",
-        "image": "https://ibb.co/kBLG7Ls",
+        "image": "https://i.ibb.co/xLn2knt/speaking.jpg",
         "description": "Speaking skills are the skills that give us the ability to communicate effectively. These skills allow the speaker, to convey his message in a passionate, thoughtful, and convincing manner. Speaking skills also help to assure that one won't be misunderstood by those who are listening.",
         "money": "$10",
         "total-hour": "80 hr",
@@ -14,13 +14,13 @@
         "badge": "good",
         "update": "Updated Yesterday",
         "teacher": "Teaccher Maksim",
-        "teacher-photo": "https://ibb.co/c1W02kd",
+        "teacher-photo": "https://i.ibb.co/MszrPZL/t1.jpg",
         "teacher-profession": "Language instructor"
     },
     {
         "id": "02",
         "title": "C++",
-        "image": "https://ibb.co/McZF3fs",
+        "image": "https://i.ibb.co/6Hrjf8m/c.jpg",
         "description": "C++ is a cross-platform language that can be used to create high-performance applications. C++ was developed by Bjarne Stroustrup, as an extension to the C language. C++ gives programmers a high level of control over system resources and memory.",
         "money": "$10",
         "total-hour": "800 hr",
@@ -32,13 +32,13 @@
         "badge": "good",
         "update": "Updated Yesterday",
         "teacher": "Teaccher Golu",
-        "teacher-photo": "https://ibb.co/c1W02kd",
+        "teacher-photo": "https://i.ibb.co/MszrPZL/t1.jpg",
         "teacher-profession": "Programmer"
     },
     {
         "id": "03",
         "title": "Public Speaking",
-        "image": "https://ibb.co/cL7c5Cb",
+        "image": "https://i.ibb.co/Qd1FBC8/pubspeak.jpg",
         "description": "It is important for Career advancement, Boost confidence, Critical thinking, Personal development, Improve communication skills etc.",
         "money": "Free",
         "total-hour": "1 hr",
@@ -49,7 +49,7 @@
         "badge": "excellent",
         "update": "Updated today",
         "teacher": "Teaccher Klaus",
-        "teacher-photo": "https://ibb.co/16Gvy8J",
+        "teacher-photo": "https://i.ibb.co/L5dkjnh/t2.jpg",
         "teacher-profession": "Trainer"
     }
 ]

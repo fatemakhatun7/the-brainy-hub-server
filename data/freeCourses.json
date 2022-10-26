@@ -2,7 +2,7 @@
     {
         "id": "01",
         "title": "Public Speaking",
-        "image": "https://ibb.co/cL7c5Cb",
+        "image": "https://i.ibb.co/Qd1FBC8/pubspeak.jpg",
         "description": "It is important for Career advancement, Boost confidence, Critical thinking, Personal development, Improve communication skills etc.",
         "money": "Free",
         "total-hour": "1 hr",
@@ -13,13 +13,13 @@
         "badge": "excellent",
         "update": "Updated today",
         "teacher": "Teaccher Klaus",
-        "teacher-photo": "https://ibb.co/16Gvy8J",
+        "teacher-photo": "https://i.ibb.co/L5dkjnh/t2.jpg",
         "teacher-profession": "Trainer"
     },
     {
         "id": "02",
         "title": "Python",
-        "image": "https://ibb.co/cCp8d5T",
+        "image": "https://i.ibb.co/8dRxV38/python.jpg",
         "description": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.",
         "money": "Free",
         "total-hour": "800 hr",
@@ -31,13 +31,13 @@
         "badge": "good",
         "update": "Updated 3 days ago",
         "teacher": "Teaccher Maksim",
-        "teacher-photo": "https://ibb.co/grFtk5j",
+        "teacher-photo": "https://i.ibb.co/TwqP9Vv/t3.jpg",
         "teacher-profession": "Programmer"
     },
     {
         "id": "03",
         "title": "Email Marketing",
-        "image": "https://ibb.co/1LTfRrJ",
+        "image": "https://i.ibb.co/HVqDGtp/email.jpg",
         "description": "Email marketing is a form of marketing that can make the customers on your email list aware of new products, discounts, and other services. It can also be a softer sell to educate your audience on the value of your brand or keep them engaged between purchases.",
         "money": "Free",
         "total-hour": "1300 hr",
@@ -49,13 +49,13 @@
         "badge": "excellent",
         "update": "Updated today",
         "teacher": "Thomas Garaf",
-        "teacher-photo": "https://ibb.co/16Gvy8J",
+        "teacher-photo": "https://i.ibb.co/L5dkjnh/t2.jpg",
         "teacher-profession": "Digital Marketer"
     },
     {
         "id": "04",
         "title": "Reading",
-        "image": "https://ibb.co/C0qM4k0",
+        "image": "https://i.ibb.co/QmZCh2m/reading.jpg",
         "description": "Reading skills are abilities that pertain to a person's capacity to read, comprehend, interpret and decode written language and texts. Exceptional reading skills can be highly beneficial to assimilating and responding to written communications like emails, messages, letters and other written messages.",
         "money": "Free",
         "total-hour": "90 hr",
@@ -67,7 +67,7 @@
         "badge": "excellent",
         "update": "Updated Yesterday",
         "teacher": "Trainer Qianfan",
-        "teacher-photo": "https://ibb.co/grFtk5j",
+        "teacher-photo": "https://i.ibb.co/TwqP9Vv/t3.jpg",
         "teacher-profession": "Language specialist"
     }
 ]

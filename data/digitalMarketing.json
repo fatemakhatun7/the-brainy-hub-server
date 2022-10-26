@@ -2,7 +2,7 @@
     {
         "id": "01",
         "title": "SEO",
-        "image": "https://ibb.co/PNy5HSz",
+        "image": "https://i.ibb.co/5635H7x/seo.jpg",
         "description": "SEO means Search Engine Optimization and is the process used to optimize a website's technical configuration, content relevance and link popularity so its pages can become easily findable, more relevant and popular towards user search queries, and as a consequence, search engines rank them better.",
         "money": "$9",
         "total-hour": "1590 hr",
@@ -14,13 +14,13 @@
         "badge": "excellent",
         "update": "Updated Yesterday",
         "teacher": "Trainer Qianfan",
-        "teacher-photo": "https://ibb.co/c1W02kd",
+        "teacher-photo": "https://i.ibb.co/MszrPZL/t1.jpg",
         "teacher-profession": "Trainer"
     },
     {
         "id": "02",
         "title": "Social Media Marketing",
-        "image": "https://ibb.co/jZbxwKD",
+        "image": "https://i.ibb.co/2YWLM2d/fb.jpg",
         "description": "Social media marketing (SMM) (also known as digital marketing and e-marketing) is the use of social media—the platforms on which users build social networks and share information—to build a company's brand, increase sales, and drive website traffic.",
         "money": "$5",
         "total-hour": "1380 hr",
@@ -32,13 +32,13 @@
         "badge": "excellent",
         "update": "Updated 2 days ago",
         "teacher": "Trainer Akira",
-        "teacher-photo": "https://ibb.co/16Gvy8J",
+        "teacher-photo": "https://i.ibb.co/L5dkjnh/t2.jpg",
         "teacher-profession": "Teacher"
     },
     {
         "id": "03",
         "title": "Brand Management",
-        "image": "https://ibb.co/6DSS9S5",
+        "image": "https://i.ibb.co/P1yyXy8/brand-Management.jpg",
         "description": "Brand management is a function of marketing that uses techniques to increase the perceived value of a product line or brand over time. Effective brand management enables the price of products to go up and builds loyal customers through positive brand associations and images or a strong awareness of the brand.",
         "money": "$20",
         "total-hour": "1120 hr",
@@ -50,13 +50,13 @@
         "badge": "excellent",
         "update": "Updated today",
         "teacher": "Teaccher Klaus",
-        "teacher-photo": "https://ibb.co/grFtk5j",
+        "teacher-photo": "https://i.ibb.co/TwqP9Vv/t3.jpg",
         "teacher-profession": "Digital Marketer"
     },
     {
         "id": "04",
         "title": "Email Marketing",
-        "image": "https://ibb.co/1LTfRrJ",
+        "image": "https://i.ibb.co/HVqDGtp/email.jpg",
         "description": "Email marketing is a form of marketing that can make the customers on your email list aware of new products, discounts, and other services. It can also be a softer sell to educate your audience on the value of your brand or keep them engaged between purchases.",
         "money": "Free",
         "total-hour": "1300 hr",
@@ -68,7 +68,7 @@
         "badge": "excellent",
         "update": "Updated today",
         "teacher": "Thomas Garaf",
-        "teacher-photo": "https://ibb.co/16Gvy8J",
+        "teacher-photo": "https://i.ibb.co/L5dkjnh/t2.jpg",
         "teacher-profession": "Digital Marketer"
     }
 ]

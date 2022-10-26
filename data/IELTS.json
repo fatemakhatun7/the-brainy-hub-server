@@ -2,7 +2,7 @@
     {
         "id": "01",
         "title": "Reading",
-        "image": "https://ibb.co/C0qM4k0",
+        "image": "https://i.ibb.co/QmZCh2m/reading.jpg",
         "description": "Reading skills are abilities that pertain to a person's capacity to read, comprehend, interpret and decode written language and texts. Exceptional reading skills can be highly beneficial to assimilating and responding to written communications like emails, messages, letters and other written messages.",
         "money": "Free",
         "total-hour": "90 hr",
@@ -14,13 +14,13 @@
         "badge": "excellent",
         "update": "Updated Yesterday",
         "teacher": "Trainer Qianfan",
-        "teacher-photo": "https://ibb.co/grFtk5j",
+        "teacher-photo": "https://i.ibb.co/TwqP9Vv/t3.jpg",
         "teacher-profession": "Language specialist"
     },
     {
         "id": "02",
         "title": "Writing",
-        "image": "https://ibb.co/HPsN9D3",
+        "image": "https://i.ibb.co/8xpzQDt/writing.jpg",
         "description": " Writing skills include all the knowledge and abilities related to expressing ideas through the written word. The ability to clearly communicate ideas through writing is in high demand for employers in any industry.",
         "money": "$5",
         "total-hour": "10 hr",
@@ -32,13 +32,13 @@
         "badge": "excellent",
         "update": "Updated 2 days ago",
         "teacher": "Trainer Akira",
-        "teacher-photo": "https://ibb.co/c1W02kd",
+        "teacher-photo": "https://i.ibb.co/MszrPZL/t1.jpg",
         "teacher-profession": "Language trainer"
     },
     {
         "id": "03",
         "title": "Listening",
-        "image": "https://ibb.co/Rz0y1kK",
+        "image": "https://i.ibb.co/NZjSXdq/listening.jpg",
         "description": "Listening involves receiving sound, understanding the message conveyed in the sounds you hear, evaluating the message, and responding to it. 1 People with good listening skills are able to comprehend what they hear and respond appropriately.",
         "money": "$20",
         "total-hour": "10 hr",
@@ -50,13 +50,13 @@
         "badge": "excellent",
         "update": "Updated today",
         "teacher": "Teaccher Klaus",
-        "teacher-photo": "https://ibb.co/16Gvy8J",
+        "teacher-photo": "https://i.ibb.co/L5dkjnh/t2.jpg",
         "teacher-profession": "Language specialist"
     },
     {
         "id": "04",
         "title": "Speaking",
-        "image": "https://ibb.co/kBLG7Ls",
+        "image": "https://i.ibb.co/xLn2knt/speaking.jpg",
         "description": "Speaking skills are the skills that give us the ability to communicate effectively. These skills allow the speaker, to convey his message in a passionate, thoughtful, and convincing manner. Speaking skills also help to assure that one won't be misunderstood by those who are listening.",
         "money": "$10",
         "total-hour": "80 hr",
@@ -68,7 +68,7 @@
         "badge": "good",
         "update": "Updated Yesterday",
         "teacher": "Teaccher Maksim",
-        "teacher-photo": "https://ibb.co/c1W02kd",
+        "teacher-photo": "https://i.ibb.co/MszrPZL/t1.jpg",
         "teacher-profession": "Language instructor"
     }
 ]

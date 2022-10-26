@@ -2,7 +2,7 @@
     {
         "id": "01",
         "title": "Email Writing",
-        "image": "https://ibb.co/1LTfRrJ",
+        "image": "https://i.ibb.co/HVqDGtp/email.jpg",
         "description": "Write clear and well-structured professional emails.",
         "money": "$2",
         "total-hour": "1 hr",
@@ -13,13 +13,13 @@
         "badge": "excellent",
         "update": "Updated Yesterday",
         "teacher": "Trainer Qianfan",
-        "teacher-photo": "https://ibb.co/grFtk5j",
+        "teacher-photo": "https://i.ibb.co/TwqP9Vv/t3.jpg",
         "teacher-profession": "Trainer"
     },
     {
         "id": "02",
         "title": "CV writing",
-        "image": "https://ibb.co/nm4M68q",
+        "image": "https://i.ibb.co/QQhvpj7/cv.jpg",
         "description": "Improve your cv writing skills with The Brainy Hub.",
         "money": "$1",
         "total-hour": "50 min",
@@ -30,13 +30,13 @@
         "badge": "excellent",
         "update": "Updated 2 days ago",
         "teacher": "Trainer Akira",
-        "teacher-photo": "https://ibb.co/c1W02kd",
+        "teacher-photo": "https://i.ibb.co/MszrPZL/t1.jpg",
         "teacher-profession": "Trainer"
     },
     {
         "id": "03",
         "title": "Public Speaking",
-        "image": "https://ibb.co/cL7c5Cb",
+        "image": "https://i.ibb.co/Qd1FBC8/pubspeak.jpg",
         "description": "It is important for Career advancement, Boost confidence, Critical thinking, Personal development, Improve communication skills etc.",
         "money": "Free",
         "total-hour": "1 hr",
@@ -47,7 +47,7 @@
         "badge": "excellent",
         "update": "Updated today",
         "teacher": "Teaccher Klaus",
-        "teacher-photo": "https://ibb.co/16Gvy8J",
+        "teacher-photo": "https://i.ibb.co/L5dkjnh/t2.jpg",
         "teacher-profession": "Trainer"
     }
 ]

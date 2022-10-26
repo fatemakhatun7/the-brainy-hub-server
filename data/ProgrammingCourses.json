@@ -2,7 +2,7 @@
     {
         "id": "01",
         "title": "Java",
-        "image": "https://ibb.co/9bNGYYF",
+        "image": "https://i.ibb.co/487JNN6/java.jpg",
         "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
         "money": "$17",
         "total-hour": "1590 hr",
@@ -14,13 +14,13 @@
         "badge": "excellent",
         "update": "Updated Yesterday",
         "teacher": "Trainer Qianfan",
-        "teacher-photo": "https://ibb.co/c1W02kd",
+        "teacher-photo": "https://i.ibb.co/MszrPZL/t1.jpg",
         "teacher-profession": "Programmer"
     },
     {
         "id": "02",
         "title": "JavaScript",
-        "image": "https://ibb.co/RTjB1jk",
+        "image": "https://i.ibb.co/whcwTcF/js.jpg",
         "description": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well.",
         "money": "$15",
         "total-hour": "1380 hr",
@@ -32,13 +32,13 @@
         "badge": "excellent",
         "update": "Updated 2 days ago",
         "teacher": "Trainer Akira",
-        "teacher-photo": "https://ibb.co/grFtk5j",
+        "teacher-photo": "https://i.ibb.co/TwqP9Vv/t3.jpg",
         "teacher-profession": "Coder"
     },
     {
         "id": "03",
         "title": "C",
-        "image": "https://ibb.co/SsGgBsx",
+        "image": "https://i.ibb.co/kHvTXHy/c.jpg",
         "description": "C is an imperative procedural language supporting structured programming, lexical variable scope, and recursion, with a static type system. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support.",
         "money": "$20",
         "total-hour": "1120 hr",
@@ -50,13 +50,13 @@
         "badge": "excellent",
         "update": "Updated today",
         "teacher": "Teaccher Klaus",
-        "teacher-photo": "https://ibb.co/16Gvy8J",
+        "teacher-photo": "https://i.ibb.co/L5dkjnh/t2.jpg",
         "teacher-profession": "Programmer"
     },
     {
         "id": "04",
         "title": "C++",
-        "image": "https://ibb.co/McZF3fs",
+        "image": "https://i.ibb.co/6Hrjf8m/c.jpg",
         "description": "C++ is a cross-platform language that can be used to create high-performance applications. C++ was developed by Bjarne Stroustrup, as an extension to the C language. C++ gives programmers a high level of control over system resources and memory.",
         "money": "$10",
         "total-hour": "800 hr",
@@ -68,13 +68,13 @@
         "badge": "good",
         "update": "Updated Yesterday",
         "teacher": "Teaccher Golu",
-        "teacher-photo": "https://ibb.co/c1W02kd",
+        "teacher-photo": "https://i.ibb.co/MszrPZL/t1.jpg",
         "teacher-profession": "Programmer"
     },
     {
         "id": "05",
         "title": "Node.js",
-        "image": "https://ibb.co/ZVDLb1M",
+        "image": "https://i.ibb.co/wRm02rz/node.jpg",
         "description": "As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications.",
         "money": "$10",
         "total-hour": "800 hr",
@@ -86,13 +86,13 @@
         "badge": "good",
         "update": "Updated today",
         "teacher": "Teaccher Divyad",
-        "teacher-photo": "https://ibb.co/16Gvy8J",
+        "teacher-photo": "https://i.ibb.co/L5dkjnh/t2.jpg",
         "teacher-profession": "Coder"
     },
     {
         "id": "06",
         "title": "Python",
-        "image": "https://ibb.co/cCp8d5T",
+        "image": "https://i.ibb.co/8dRxV38/python.jpg",
         "description": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.",
         "money": "Free",
         "total-hour": "800 hr",
@@ -104,13 +104,13 @@
         "badge": "good",
         "update": "Updated 3 days ago",
         "teacher": "Teaccher Maksim",
-        "teacher-photo": "https://ibb.co/grFtk5j",
+        "teacher-photo": "https://i.ibb.co/TwqP9Vv/t3.jpg",
         "teacher-profession": "Programmer"
     },
     {
         "id": "07",
         "title": "React",
-        "image": "https://ibb.co/Bc5WSrv",
+        "image": "https://i.ibb.co/Gn4YbtG/react.jpg",
         "description": "React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
         "money": "$10",
         "total-hour": "1300 hr",
@@ -122,7 +122,7 @@
         "badge": "excellent",
         "update": "Updated today",
         "teacher": "Thomas Garaf",
-        "teacher-photo": "https://ibb.co/c1W02kd",
+        "teacher-photo": "https://i.ibb.co/MszrPZL/t1.jpg",
         "teacher-profession": "Programmer"
     }
 ]
