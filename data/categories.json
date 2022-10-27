@@ -1,58 +1,38 @@
 [
     {
       "id": "01",
-      "name": "Free Courses",
-      "description": "The Brainy Hub provides you some free courses as a new learner.",
-      "image": "https://i.ibb.co/vLHpx42/category01.jpg",
-      "numberOfCourses": "4"
+      "name": "Chinese",
+      "description": "Chinese language skills open up just over 1.3 billion people across China! Learning Mandarin gives you access to communicate with many people and connect on a deeper level, not just in Asia but across the world! Studies suggest that learning Chinese uses more parts of the brain than are required for other languages.",
+      "image": "https://i.ibb.co/vLHpx42/category01.jpg"
     },
     {
       "id": "02",
-      "name": "Most Popular Courses",
-      "description": "You can get here most relevant and demandable courses.",
-      "image": "https://i.ibb.co/2jsH95g/category02-1.jpg",
-      "numberOfCourses": "3"
+      "name": "Japanese",
+      "description": "Learning Japanese will help you to appreciate your own culture as well as your own language because it improves your communication and cognitive skills.",
+      "image": "https://i.ibb.co/2jsH95g/category02-1.jpg"
     },
     {
       "id": "03",
-      "name": "Language Courses",
-      "description": "Learn several languages with The Brainy Hub. (Chinese, Japanese, German, Russian and Korean Language)",
-      "image": "https://i.ibb.co/h99Cx96/category03-1.jpg",
-      "numberOfCourses": "5"
+      "name": "German",
+      "description": "Knowledge of German increases your job opportunities with German and foreign companies in your own country and abroad. Tourism and hospitality industry: Tourists from German-speaking countries travel wide and far, and are the world's biggest spenders when on holiday.",
+      "image": "https://i.ibb.co/xLn2knt/speaking.jpg"
     },
     {
       "id": "04",
-      "name": "Programming Courses",
-      "description": "Learn different programming languages and be more proficient.",
-      "image": "https://i.ibb.co/6WLqf96/programming-1.jpg",
-      "numberOfCourses": "7"
+      "name": "russian",
+      "description": "The most obvious reason to learn Russian is its massive popularity. It’s the eighth most widely spoken language in the world and the official language of Russia—the largest country, with a population of 146 million people.",
+      "image": "https://i.ibb.co/2FPzNS8/psychology.jpg"
     },
     {
       "id": "05",
-      "name": "Digital Marketing",
-      "description": "Master the tools of business strategy to contribute meaningfully to your organization. Create value for customers, employees, and suppliers, and generate financial success.",
-      "image": "https://i.ibb.co/vD4P2pL/digital-marketing.jpg",
-      "numberOfCourses": "4"
+      "name": "Korean",
+      "description": "Learning Korean helps you to connect with a broad and engaging community of people. Korean is often considered to have the most logical writing system in the world.",
+      "image": "https://i.ibb.co/58NLn3y/ielts.jpg"
     },
     {
       "id": "06",
-      "name": "Skill Development",
-      "description": "Here goes some extra-ordinary and unique courses that helps you to improve more.",
-      "image": "https://i.ibb.co/Ks9bvV2/skill.jpg",
-      "numberOfCourses": "3"
-    },
-    {
-      "id": "07",
-      "name": "IELTS Courses",
-      "description": "Improve your English learning strategy with us and get more score in IELTS.",
-      "image": "https://i.ibb.co/58NLn3y/ielts.jpg",
-      "numberOfCourses": "4"
-    },
-    {
-      "id": "08",
-      "name": "Psychological Courses",
-      "description": "Explore the science of psychology and maintain efficiently your Mental Health.",
-      "image": "https://i.ibb.co/2FPzNS8/psychology.jpg",
-      "numberOfCourses": "3"
+      "name": "English",
+      "description": "It is the language of international communication, the media and the internet. Whether it is for professional or personal reasons, understanding the importance of English will help you reach your goals.",
+      "image": "https://i.ibb.co/Ks9bvV2/skill.jpg"
     }
   ]
